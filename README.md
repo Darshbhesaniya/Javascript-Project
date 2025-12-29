@@ -1,4 +1,4 @@
-# JavaScript Projects 🚀
+# JavaScript Projects 
 
 This repository contains multiple small projects built using:
 - HTML
@@ -6,9 +6,11 @@ This repository contains multiple small projects built using:
 - JavaScript
 
 ## Projects
-- Todo App
-- Calculator
-- Weather App
+- Todo-list
+- Color change
+- BMI Calculator
+- Basic calculator
+- Otp input field 
 
 ## How to Run
 1. Open any project folder
